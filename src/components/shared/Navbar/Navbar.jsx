@@ -1,9 +1,14 @@
 
 const Navbar = () => {
     return (
-        <div>
-            navbar
-        </div>
+        <>
+            <div>
+                desktop Navbar
+            </div>
+            <div>
+                Other Navbar
+            </div>
+        </>
     );
 };
 
